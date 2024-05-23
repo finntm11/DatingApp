@@ -3,6 +3,9 @@
         "Autoincrement",
         "datingapp",
         "hmac",
-        "HMACSHA"
+        "HMACSHA",
+        "titlecase",
+        "toastr",
+        "tostr"
     ]
 }
